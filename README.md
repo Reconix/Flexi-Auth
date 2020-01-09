@@ -15,12 +15,14 @@ Library User Guide: http://haseydesign.com/flexi-auth/user_guide/
 If you would just like the core files required for your project, be sure to check dansanti fork.
 https://github.com/dansanti/flexi-auth
 
+## Repositories & Branches
+Source : https://github.com/haseydesign/flexi-auth  
+Codeigniter 3 : https://github.com/Reconix/Flexi-Auth/tree/Flexi-Auth-CI3  
+Core Files Only : https://github.com/Reconix/Flexi-Auth-CI3/tree/Core-Files  
+
 ## Github Page
 Because why not...
 https://reconix.github.io/Flexi-Auth-CI3/
-
-## Badges
-This will be updated with badges soon...
 
 ## Install
 Update the 'base_url' to CodeIgniters root installation directory.  
